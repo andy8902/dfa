@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DfaOntheway</string>
+    <string name="title_activity_main">DfaOntheway</string>
+    <string name="package_name">com.dfaontheway.dfa</string>
+    <string name="custom_url_scheme">com.dfaontheway.dfa</string>
+</resources>
